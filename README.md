@@ -2,7 +2,7 @@
 
 Embark on an exhilarating journey of web development.100 unique websites from scratch.
 
-Live Demo - https://quantumcoding123.github.io/Day-68-Responsive-Portfolio-Website-Design/
+Live Demo - https://jayantportfolios.netlify.app/
 
 # Follow Me
 
@@ -16,7 +16,7 @@ With a plethora of free resources available online, including tutorials, code sn
 
 
 # Output - 1
-![Screenshot (164)](https://github.com/QuantumCoding123/Day-68-Responsive-Portfolio-Website-Design/assets/166281221/0a1befa0-a0b4-4fae-9a31-a8d3405eb42e)
+![Screenshot (output1)](https://github.com/QuantumCoding123/Day-68-Responsive-Portfolio-Website-Design/assets/166281221/0a1befa0-a0b4-4fae-9a31-a8d3405eb42e)
  
 # Output - 2
 
