@@ -20,7 +20,7 @@ With a plethora of free resources available online, including tutorials, code sn
  
 # Output - 2
 
-![Screenshot (165)](https://github.com/QuantumCoding123/Day-68-Responsive-Portfolio-Website-Design/assets/166281221/6007d999-a221-46ec-b467-944431910cd5)
+![output 2](https://github.com/JAYANT786/Portfolio/assets/79712667/fb04cbea-e7a5-4514-8a58-dbaf8d54a158)
 
 # Output - 3
 
