@@ -3,7 +3,6 @@
 Embark on an exhilarating journey of web development.100 unique websites from scratch.
 
 Live Demo - https://jayantportfolios.netlify.app/
-🔗 Mint's Sign up page](https://rawcdn.githack.com/JAYANT786/Portfolio/tree/main/portfolio.html
 
 # Follow Me
 
