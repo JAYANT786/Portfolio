@@ -24,7 +24,7 @@ With a plethora of free resources available online, including tutorials, code sn
 
 # Output - 3
 
-![Screenshot (166)](https://github.com/QuantumCoding123/Day-68-Responsive-Portfolio-Website-Design/assets/166281221/670aba94-2392-4501-bfb4-1ed0cd176d2a)
+![output 3](https://github.com/JAYANT786/Portfolio/assets/79712667/1babee14-f5c4-43e4-ad04-3dd597f63b98)
 
 # Output - 4
 
