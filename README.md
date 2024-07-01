@@ -32,5 +32,5 @@ With a plethora of free resources available online, including tutorials, code sn
 
 # Output - 5
 
-![Screenshot (168)](https://github.com/QuantumCoding123/Day-68-Responsive-Portfolio-Website-Design/assets/166281221/c5ceab72-88c0-4b71-ab8c-38e3a28579b5)
+![output 5](https://github.com/JAYANT786/Portfolio/assets/79712667/b9a10c47-ead1-44a6-aac3-9052ce516cba)
 
